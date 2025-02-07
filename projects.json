@@ -12,5 +12,12 @@
     "author": "empty2",
     "year": "2024_WS",
     "status": 1
+  },
+  {
+    "title": "Siedler von Katan",
+    "folder": "SettlerOfCatan",
+    "author": "Schroll",
+    "year": "2024_WS",
+    "status": 0
   }
 ]
