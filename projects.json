@@ -12,5 +12,12 @@
     "author": "empty2",
     "year": "2024_WS",
     "status": 1
+  },
+  {
+    "title": "ShellshockAnalog",
+    "folder": "ShellshockFolder",
+    "author": "Marco Doblhammer",
+    "year": "2024_WS",
+    "status": 1
   }
 ]
