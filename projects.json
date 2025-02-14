@@ -1,5 +1,5 @@
 [
-    {
+  {
         "title": "empty",
         "folder": "empty",
         "author": "empty",
@@ -55,5 +55,13 @@
         "author": "Matthias Haselwanner",
         "year": "2024_WS",
         "status": 0
+    },
+    {  
+      "title": "top-down-shooter",
+      "folder": "top-down-shooter",
+      "author": "Daniel Kaiser",
+      "year": "2024_WS",
+      "info": "Grober zompfuschter Rogue Like, erwortet ned fui, start game by pressing 'N'",
+      "status": "0"
     }
 ]
