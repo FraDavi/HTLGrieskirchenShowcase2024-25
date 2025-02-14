@@ -1,45 +1,51 @@
 [
-  {
-    "title": "empty",
-    "folder": "empty",
-    "author": "empty",
-    "year": "2024_WS",
-    "status": 1
-  },
-  {
-    "title": "empty2",
-    "folder": "empty2",
-    "author": "empty2",
-    "year": "2024_WS",
-    "status": 1
-  },
-  {
-    "title": "Siedler von Katan",
-    "folder": "SettlerOfCatan",
-    "author": "Schroll",
-    "year": "2024_WS",
-    "status": 0
-  },
-  {
-    "title": "Idle-BananaFarm",
-    "folder": "Idle-BananaFarm",
-    "author": "Boris Angerbauer",
-    "year": "2024_WS",
-    "status": 0
-  },
-  {
-    "title": "Tower Defense",
-    "folder": "TowerDefense",
-    "author": "Maximilian Krennmeir",
-    "year": "2024_WS",
-    "status": 0
-  },
-
-{
-    "title": "ShellShockAnalog",
-    "folder": "ShellshockFolder",
-    "author": "Marco Doblhammer",
-    "year": "2024_WS",
-    "status": 1
-  },
-
+    {
+        "title": "empty",
+        "folder": "empty",
+        "author": "empty",
+        "year": "2024_WS",
+        "status": 1
+    },
+    {
+        "title": "empty2",
+        "folder": "empty2",
+        "author": "empty2",
+        "year": "2024_WS",
+        "status": 1
+    },
+    {
+        "title": "Siedler von Katan",
+        "folder": "SettlerOfCatan",
+        "author": "Schroll",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "Idle-BananaFarm",
+        "folder": "Idle-BananaFarm",
+        "author": "Boris Angerbauer",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "Tower Defense",
+        "folder": "TowerDefense",
+        "author": "Maximilian Krennmeir",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "ShellShockAnalog",
+        "folder": "ShellshockFolder",
+        "author": "Marco Doblhammer",
+        "year": "2024_WS",
+        "status": 1
+    },
+    {
+        "title": "Tower Defense",
+        "folder": "TowerDefense2",
+        "author": "Matthias Haselwanner",
+        "year": "2024_WS",
+        "status": 0
+    }
+]
