@@ -42,4 +42,13 @@
     "year": "2024_WS",
     "status": 1
   },
-
+  {  
+    "title": "Rogue Like Pfusch",
+    "folder": "Rogue_Like_Pfusch_Build",
+    "author": "Albl Michael",
+    "year": "2025",
+    "info": "Grober zompfuschter Rogue Like, erwortet ned fui",
+    "status": "0"
+  
+  }
+]
