@@ -63,5 +63,12 @@
       "year": "2024_WS",
       "info": "Grober zompfuschter Rogue Like, erwortet ned fui, start game by pressing 'N'",
       "status": "0"
+    },
+    {
+        "title": "The HTLists",
+        "folder": "The-HTLists",
+        "author": "Simon Parzer",
+        "year": "2024_WS",
+        "status": 0
     }
 ]
