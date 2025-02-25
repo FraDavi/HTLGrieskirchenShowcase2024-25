@@ -93,10 +93,19 @@
         "status": 0
     },
     {
+
+        "title": "DrawRPG",
+        "folder": "DrawRPG",
+        "author": "Florian Greindl",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
         "title": "Aquadiver",
         "folder": "Aquadiver",
         "author": "Tim Kainz",
         "year": "2024_WS",
         "status": 1
     }
+
 ]
