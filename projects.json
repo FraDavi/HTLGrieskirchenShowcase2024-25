@@ -84,11 +84,18 @@
         "author": "Jakob Maringer",
         "year": "2024_WS",
         "status": 0
-    }
+    },
     {
         "title": "Superaffe",
         "folder": "Superaffe",
         "author": "Johannes Lakoschek",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "AquaRiddles",
+        "folder": "AquaRiddles",
+        "author": "Gabriel Zimmermann",
         "year": "2024_WS",
         "status": 0
     }
