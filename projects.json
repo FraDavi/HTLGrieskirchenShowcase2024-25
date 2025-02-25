@@ -106,6 +106,12 @@
         "author": "Tim Kainz",
         "year": "2024_WS",
         "status": 1
+    },
+    {
+        "title": "AquaRiddles",
+        "folder": "AquaRiddles",
+        "author": "Gabriel Zimmermann",
+        "year": "2024_WS",
+        "status": 0
     }
-
 ]
