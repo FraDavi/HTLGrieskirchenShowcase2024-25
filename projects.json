@@ -106,6 +106,12 @@
         "author": "Tim Kainz",
         "year": "2024_WS",
         "status": 1
+    },
+    {
+        "title": "LeapQuest",
+        "folder": "LeapQuest",
+        "author": "Lukas Wösenböck",
+        "year": "2024_WS",
+        "status": 0
     }
-
 ]
