@@ -84,13 +84,19 @@
         "author": "Jakob Maringer",
         "year": "2024_WS",
         "status": 0
-    }
+    },
     {
         "title": "Superaffe",
         "folder": "Superaffe",
         "author": "Johannes Lakoschek",
         "year": "2024_WS",
         "status": 0
+    },
+    {
+        "title": "Aquadiver",
+        "folder": "Aquadiver",
+        "author": "Tim Kainz",
+        "year": "2024_WS",
+        "status": 1
     }
-
 ]
