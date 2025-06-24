@@ -127,5 +127,12 @@
         "author": "Mate Szombati",
         "year": "2024_WS",
         "status": 0
-    }
+    },
+    {
+        "title": "DrawRPG",
+        "folder": "DrawRPG",
+        "author": "Florian Greindl",
+        "year": "2025_SS",
+        "status": 0
+    },
 ]
