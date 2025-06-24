@@ -84,13 +84,55 @@
         "author": "Jakob Maringer",
         "year": "2024_WS",
         "status": 0
-    }
+    },
     {
         "title": "Superaffe",
         "folder": "Superaffe",
         "author": "Johannes Lakoschek",
         "year": "2024_WS",
         "status": 0
-    }
+    },
+    {
 
+        "title": "DrawRPG",
+        "folder": "DrawRPG",
+        "author": "Florian Greindl",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "Aquadiver",
+        "folder": "Aquadiver",
+        "author": "Tim Kainz",
+        "year": "2024_WS",
+        "status": 1
+    },
+    {
+        "title": "LeapQuest",
+        "folder": "LeapQuest",
+        "author": "Lukas Wösenböck",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "AquaRiddles",
+        "folder": "AquaRiddles",
+        "author": "Gabriel Zimmermann",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "DungeonRPG",
+        "folder": "DungeonRPG",
+        "author": "Mate Szombati",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "DrawRPG",
+        "folder": "DrawRPG",
+        "author": "Florian Greindl",
+        "year": "2025_SS",
+        "status": 0
+    },
 ]
